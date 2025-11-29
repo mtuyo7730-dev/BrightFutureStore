@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>BrightFutureStore 🚀</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>BrightFutureStore 🚀</h1>
+    <p>Los productos más vendidos de Amazon, listos para ti</p>
+  </header>
+
+  <section class="products">
+    <div class="product">
+      <img src="img/product1.png" alt="Auriculares Sony">
+      <h3>Sony WH‑1000XM5</h3>
+      <p class="price">$399.99</p>
+      <a href="https://www.amazon.com/dp/B0DDV3FRHR?tag=brightfutu0cd-20" target="_blank">
+        <button>Comprar ahora</button>
+      </a>
+    </div>
+
+    <div class="product">
+      <img src="img/product2.png" alt="Samsung Galaxy Watch 4">
+      <h3>Samsung Galaxy Watch 4</h3>
+      <p class="price">$151.99</p>
+      <a href="https://www.amazon.com/dp/B0C7SDH3J6?tag=brightfutu0cd-20" target="_blank">
+        <button>Comprar ahora</button>
+      </a>
+    </div>
+
+    <div class="product">
+      <img src="img/product3.png" alt="JBL Flip 6">
+      <h3>JBL Flip 6 Speaker</h3>
+      <p class="price">$129.95</p>
+      <a href="https://www.amazon.com/dp/B09GJL7DSC?tag=brightfutu0cd-20" target="_blank">
+        <button>Comprar ahora</button>
+      </a>
+    </div>
+
+    <div class="product">
+      <img src="img/product4.png" alt="Lepro LED Lamp">
+      <h3>Lepro LED Desk Lamp</h3>
+      <p class="price">$28.74</p>
+      <a href="https://www.amazon.com/dp/B08LMTQ7ZF?tag=brightfutu0cd-20" target="_blank">
+        <button>Comprar ahora</button>
+      </a>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 BrightFutureStore | Afiliado Amazon</p>
+  </footer>
+</body>
+</html>
